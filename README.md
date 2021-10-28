@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Yasmim and I'm from Brazil.
+- 👋 Hey! What's Up? I'm Yasmim and I'm from Brazil.
 - 🌱 I’m currently learning Web Development on Trybe Course.
 - 💞️ I want to be a Web Full Stack Developer.
 
