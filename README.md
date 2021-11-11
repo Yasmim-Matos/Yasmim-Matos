@@ -13,12 +13,12 @@
 <br>
 <div align="center">
   <a href="https://github.com/Yasmim-Matos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasmim-Matos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Yasmim-Matos&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yasmim-Matos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Yasmim-Matos&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">
  
   <div align="center">
    <a href="https://github.com/Yasmim-Matos">
-    <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmim-Matos&theme=chartreuse-dark"> 
+    <img height:"100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmim-Matos&theme=chartreuse-dark"> 
 </div>
  <br>
    <a href="https://github.com/Yasmim-Matos/trybe-exercicios" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yasmim-Matos&repo=trybe-exercicios&theme=chartreuse-dark"></a>
