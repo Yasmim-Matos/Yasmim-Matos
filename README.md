@@ -26,8 +26,7 @@
     
 ##
     
-    ![Snake animation](https://github.com/Yasmim-Matos/Yasmim-Matos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
     
-  
+  ![Snake animation](https://github.com/Yasmim-Matos/Yasmim-Matos/blob/output/github-contribution-grid-snake.svg)
