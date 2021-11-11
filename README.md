@@ -28,6 +28,5 @@
     
 
 </div>
-<div align="center">
+
   ![Snake animation](https://github.com/Yasmim-Matos/Yasmim-Matos/blob/output/github-contribution-grid-snake.svg)
-</div>
