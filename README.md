@@ -21,7 +21,8 @@
     <img height:"100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmim-Matos&theme=chartreuse-dark"> 
 </div>
  <br>
-   <a href="https://github.com/Yasmim-Matos/trybe-exercicios" target=_blank><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Yasmim-Matos&repo=trybe-exercicios&theme=chartreuse-dark&border_radius=10"></a>
+   <a href="https://github.com/Yasmim-Matos/trybe-exercicios" target=_blank><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Yasmim-Matos&repo=trybe-exercicios&theme=chartreuse-dark&border_radius=10"></a>
+   <a href="https://github.com/Yasmim-Matos/trybe-projetos" target=_blank><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Yasmim-Matos&repo=trybe-projetos&theme=chartreuse-dark&border_radius=10"></a>
  <br>
     
 ##
