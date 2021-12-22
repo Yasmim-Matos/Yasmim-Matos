@@ -1,4 +1,4 @@
-### Hey! What's Up? I'm Yasmim. 👋
+### Hey! What's Up? I'm Yasmim. ✌️
 - 🌱 I’m currently learning Web Development on Trybe Course. </div>  
 
    <div>
