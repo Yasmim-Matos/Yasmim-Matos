@@ -19,6 +19,14 @@
         <img title="Figma" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
         <img title="GIT" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
    </div>
+   <br>
+   <div align="center">
+       <details>
+               <summary markdown="span"><strong> Nome das Ferramentas Acima </strong></summary><br />
+                  - HTML - CSS - JavaScript - React - Redux - Docker - NodeJS - MySQL - Sequelize - Figma - GIT -
+       </details>
+    </div>
+
 
 ## <h3 align="center"> Estatísticas Git&Hub </h3>
 <br>
