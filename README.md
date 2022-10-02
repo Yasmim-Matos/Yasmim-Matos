@@ -4,7 +4,7 @@
 - :seedling: Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/)!
 
 
-## <h3 align="center"> Técnologias e Ferramentas </h3>
+## <h3 align="center"> Tecnologias e Ferramentas </h3>
 <br>
    <div align="center">
         <img title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
