@@ -1,10 +1,10 @@
-<h3 align="center"> Olá! Tudo bem? :v: </h3>
+<h3 align="center"> Hey! What's up? :v: </h3>
 
-- :grin: Eu sou Yasmim Matos.
-- :seedling: Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/)!
+- :grin: I'm a front end developer.
+- :seedling: Currently, I'm working on some projects and learning more about unit testing!
 
 
-## <h3 align="center"> Tecnologias e Ferramentas </h3>
+## <h3 align="center"> Tecnologies and Tools </h3>
 <br>
    <div align="center">
         <img title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,23 +12,12 @@
         <img title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img title="Redux" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-        <img title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
         <img title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-        <img title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-        <img title="Sequelize" alt="Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
         <img title="Figma" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
         <img title="GIT" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
    </div>
-   <br>
-   <div align="center">
-       <details>
-               <summary markdown="span"><strong> Nome das Ferramentas Acima </strong></summary><br />
-                  - HTML - CSS - JavaScript - React - Redux - Docker - NodeJS - MySQL - Sequelize - Figma - GIT -
-       </details>
-    </div>
 
-
-## <h3 align="center"> Estatísticas Git&Hub </h3>
+## <h3 align="center"> Git&Hub Statistics </h3>
 <br>
 <div align="center">
   <a href="https://github.com/Yasmim-Matos">
@@ -38,7 +27,7 @@
 </div>
 <br>
 
-## <h3 align="center">Contato</h3>
+## <h3 align="center">Contact me!</h3>
 
    <p align="center">
       <a href="https://www.linkedin.com/in/yasmimmatos/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logolinkedin"/></a>
