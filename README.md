@@ -38,7 +38,7 @@
 
 <div align="center">
   <br>
-  <p align="center">Visualizações do Perfil - Desde 24/07/2022</p>
+  <p align="center">Profile Views - Since 2022</p>
 
   ![](https://komarev.com/ghpvc/?username=yasmim-matos&style=flat&color=green)
 </div>
